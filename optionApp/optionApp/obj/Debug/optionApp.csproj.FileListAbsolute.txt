@@ -1,0 +1,12 @@
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\bin\Debug\optionApp.exe.config
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\bin\Debug\optionApp.exe
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\bin\Debug\optionApp.pdb
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.Form1.resources
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.paleta.resources
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.Properties.Resources.resources
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.csproj.GenerateResource.cache
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.exe
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.pdb
+C:\Users\Carlos Alejandro\source\repos\optionApp\optionApp\obj\Debug\optionApp.textEditor.resources
